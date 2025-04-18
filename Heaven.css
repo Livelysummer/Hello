@@ -10,8 +10,8 @@ body{
     
 }
 #chest1{
-    width:140px;
-    height:100px;
+    width:8vw;
+    height:10vh;
     background-color: transparent;
     position:absolute;
     left:34%;
@@ -21,8 +21,8 @@ body{
     cursor:pointer;
 }
 #chest2{
-    width:140px;
-    height:100px;
+    width:8vw;
+    height:10vh;
     background-color: transparent;
     position:absolute;
     left: 34%;
@@ -33,8 +33,8 @@ body{
     cursor:pointer;
 }
 #chest3{
-    width:140px;
-    height:100px;
+    width:8vw;
+    height:10vh;
     background-color: transparent;
     position:absolute;
     right:34%;
@@ -45,8 +45,8 @@ body{
     cursor:pointer;
 }
 #chest4{
-    width:140px;
-    height:100px;
+    width:8vw;
+    height:10vh;
     background-color: transparent;
     position:absolute;
     right:34%;
