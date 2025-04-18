@@ -13,7 +13,7 @@ function unpush(){
     let Presses = document.getElementById("Presses");
     Presses.innerText = count;
     if (count == -100){
-        window.location.href = "https://livelysummer.github.io/Hello/wip.html";
+        window.location.href = "https://livelysummer.github.io/Hello/Hell.html";
     }
 }
 
