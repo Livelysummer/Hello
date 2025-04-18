@@ -1,0 +1,58 @@
+body{
+    background-image: url(Chest.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 100vh;
+
+    text-align:end;
+    color:white;
+    font-size: xx-large;
+    
+}
+#chest1{
+    width:140px;
+    height:100px;
+    background-color: transparent;
+    position:absolute;
+    left:655px;
+    top:300px;
+}
+#chest1:hover{
+    cursor:pointer;
+}
+#chest2{
+    width:140px;
+    height:100px;
+    background-color: transparent;
+    position:absolute;
+    left: 655px;
+    top:500px;
+    
+}
+#chest2:hover{
+    cursor:pointer;
+}
+#chest3{
+    width:140px;
+    height:100px;
+    background-color: transparent;
+    position:absolute;
+    right:655px;
+    top:300px;
+    
+}
+#chest3:hover{
+    cursor:pointer;
+}
+#chest4{
+    width:140px;
+    height:100px;
+    background-color: transparent;
+    position:absolute;
+    right:655px;
+    top:500px;
+    
+}
+#chest4:hover{
+    cursor:pointer;
+}

@@ -1,0 +1,10 @@
+body{
+    font-family:'Comic Sans MS';
+    font-size:100px;
+    text-align:center;
+    background-color:forestgreen;
+    color:white;
+}
+button{
+    cursor:pointer;
+}

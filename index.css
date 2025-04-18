@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color:white
+}
+h1{
+    text-align: center;
+}
+button{
+    background-color:transparent;
+    border-color:transparent;
+    position:absolute;
+    left: 1250px;
+    top: 550px;
+}
+button:hover{
+    cursor:pointer;
+    background-color: white;
+    border-color: white;
+}
